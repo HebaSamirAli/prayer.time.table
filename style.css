@@ -1,0 +1,10 @@
+.prayercontainer{
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+h2 {
+    text-align: center;
+    padding: 10px;
+    margin: 0px;
+    color: brown;
+}
